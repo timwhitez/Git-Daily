@@ -52,4 +52,11 @@ https://github.com/mgeeky/ThreadStackSpoofer
 
 线程堆栈欺骗,通过sleep时修改_AddressOfReturnAddress()地址实现断链 (cpp)
 
+
+https://github.com/ORCA666/WHALE
+
+基于Huan项目的修改，加入反沙箱，反调试等 (c/cpp)
+
+
+
 ```
