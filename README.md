@@ -5,6 +5,8 @@ Github Security Daily Repository.
 
 ## --
 
+### 20211008
+
 ```
 https://github.com/mgeeky/ShellcodeFluctuation/releases/tag/v0.2
 
@@ -40,5 +42,14 @@ https://github.com/vxunderground/WinAPI-Tricks
 
 恶意软件使用或滥用的各种 WINAPI 技巧/功能的集合, 反调试,字符串哈希等 (c)
 
+
+https://github.com/hydra13142/sma
+
+golang实现的各种字符串匹配算法 (go)
+
+
+https://github.com/mgeeky/ThreadStackSpoofer
+
+线程堆栈欺骗,通过sleep时修改_AddressOfReturnAddress()地址实现断链 (cpp)
 
 ```
