@@ -45,7 +45,7 @@ https://github.com/vxunderground/WinAPI-Tricks
 
 https://github.com/hydra13142/sma
 
-golang实现的各种字符串匹配算法 (go)
+golang实现的多种字符串匹配算法 (go)
 
 
 https://github.com/mgeeky/ThreadStackSpoofer
