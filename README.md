@@ -58,5 +58,8 @@ https://github.com/ORCA666/WHALE
 基于Huan项目的修改，加入反沙箱，反调试等 (c/cpp)
 
 
+https://github.com/slaeryan/AQUARMOURY/blob/master/Wraith/Src/Injector.h
+
+"Advanced Bird" APC Queue Code Injection(cpp)
 
 ```
