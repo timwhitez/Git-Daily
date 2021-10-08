@@ -31,5 +31,14 @@ https://github.com/JustasMasiulis/inline_syscall
 添加标头的方式以实现方便的系统调用/syscall (cpp)
 
 
+https://github.com/boku7/Ninja_UUID_Dropper
+
+Module Stomping + UUID注入 + HellsGate + HalosGate + EnumSystemLocalesA(回调执行，无新线程) (c)
+
+
+https://github.com/vxunderground/WinAPI-Tricks
+
+恶意软件使用或滥用的各种 WINAPI 技巧/功能的集合, 反调试,字符串哈希等 (c)
+
 
 ```
