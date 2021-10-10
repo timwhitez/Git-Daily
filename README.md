@@ -63,3 +63,14 @@ https://github.com/slaeryan/AQUARMOURY/blob/master/Wraith/Src/Injector.h
 "Advanced Bird" APC Queue Code Injection(cpp)
 
 ```
+
+### 20211010
+
+```
+https://github.com/rookuu/BOFs/tree/main/MiniDumpWriteDump
+重写MiniDunpWriteDump (c)
+
+
+https://github.com/k4nfr3/Dumpert
+dumpert修改项目，绕过本地字符串拦截,mcafee等(c)
+```
