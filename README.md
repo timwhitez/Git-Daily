@@ -74,8 +74,17 @@ https://github.com/rookuu/BOFs/tree/main/MiniDumpWriteDump
 https://github.com/w1u0u1/minidump
 MiniDumpWriteDump函数的自定义实现。使用静态系统调用替换低级函数，借鉴了上述项目(c)
 
+
 https://github.com/k4nfr3/Dumpert
 dumpert修改项目，绕过本地字符串拦截,mcafee等(c)
+
+
+https://github.com/bats3c/DarkLoadLibrary
+代替LoadLibrary，更隐蔽(c)
+
+
+https://github.com/panagioto/SyscallHide
+采用Syscall添加注册表后门(cpp)
 
 
 ```
