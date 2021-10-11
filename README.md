@@ -13,11 +13,11 @@ https://github.com/plackyhacker/UnhookBitDefender
 
 
 https://github.com/tihanyin/PSSW100AVB
-100%(2021_09)静态免杀的powershell脚本(ps1)
+100%(2021_09)静态免杀的powershell脚本 (ps1)
 
 
 https://github.com/ouqiang/goproxy
-Go HTTP(S)代理库, 支持中间人代理解密HTTPS
+Go HTTP(S)代理库, 支持中间人代理解密HTTPS (go)
 
 ```
 
