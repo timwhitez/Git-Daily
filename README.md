@@ -15,6 +15,9 @@ https://github.com/dismantl/ImprovedReflectiveDLLInjection
 改进的RDI(反射DLL注入)技术 (c)
 
 
+https://github.com/akkuman/alifc_email
+利用阿里云函数发生邮件（go）
+
 ```
 
 
