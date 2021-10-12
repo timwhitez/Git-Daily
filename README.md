@@ -23,6 +23,9 @@ https://github.com/zu1k/good-mitm
 Rust写的mitm中间人代理(rust)
 
 
+https://github.com/magnusstubman/MagnusKatz
+重写mimikatz达到免杀效果(cpp)
+
 ```
 
 
