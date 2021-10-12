@@ -8,7 +8,7 @@ Github Security Daily Repository.
 ### 20201012
 ```
 https://github.com/yaklang/yakit/
-基于yaklang的集成化单兵安全能力平台
+基于yaklang的集成化单兵安全能力平台(TypeScript)
 
 
 https://github.com/dismantl/ImprovedReflectiveDLLInjection
