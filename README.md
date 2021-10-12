@@ -10,6 +10,11 @@ Github Security Daily Repository.
 https://github.com/yaklang/yakit/
 基于yaklang的集成化单兵安全能力平台
 
+
+https://github.com/dismantl/ImprovedReflectiveDLLInjection
+改进的RDI(反射DLL注入)技术 (c)
+
+
 ```
 
 
