@@ -100,6 +100,7 @@ https://github.com/Tylous/SourcePoint/releases/tag/2.0
 Cobalt Strike profile配置生成工具SourcePoint大版本更新v2.0 (go)
 
 
+
 https://github.com/codewhitesec/HandleKatz
 
 通过lsass句柄克隆进行转储与混淆 (c)
@@ -118,7 +119,7 @@ https://github.com/JustasMasiulis/inline_syscall
 https://github.com/boku7/Ninja_UUID_Dropper
 
 Module Stomping + UUID注入 + HellsGate + HalosGate + EnumSystemLocalesA(回调执行，无新线程) (c)
-
+./SourcePoint -PE_Clone 18 -PostEX_Name 13 -Sleep 3 -Profile 4 -Outfile myprofile.profile -Host <TeamServer> -Injector NtMapViewOfSection
 
 https://github.com/vxunderground/WinAPI-Tricks
 
