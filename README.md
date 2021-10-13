@@ -5,6 +5,16 @@ Github Security Daily Repository.
 
 ## --
 
+### 20201013
+```
+
+https://github.com/EspressoCake/HandleKatz_BOF
+通过lsass句柄克隆进行转储与混淆的BOF版本 (c)
+
+
+```
+
+
 ### 20201012
 ```
 https://github.com/yaklang/yakit/
