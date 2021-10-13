@@ -12,6 +12,11 @@ https://github.com/EspressoCake/HandleKatz_BOF
 通过lsass句柄克隆进行转储与混淆的BOF版本 (c)
 
 
+https://github.com/optiv/ScareCrow/releases/tag/v3.0
+scarecrow3.0 最好的golang加载器项目(go)
+
+
+
 ```
 
 
