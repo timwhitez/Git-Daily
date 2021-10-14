@@ -4,18 +4,23 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20201014
+```
+https://github.com/aaaddress1/Skrull
+Skrull针对DRM的恶意软件保护，可防止AV/EDR自动提交样本以及从内核进行签名扫描。它生成的启动器可以使用进程重影技术在受害者身上运行恶意软件。启动器是完全反复制的，并且在提交时自然会损坏。(c)
+
+```
+
+
 
 ### 20201013
 ```
-
 https://github.com/EspressoCake/HandleKatz_BOF
 通过lsass句柄克隆进行转储与混淆的BOF版本 (c)
 
 
 https://github.com/optiv/ScareCrow/releases/tag/v3.0
 scarecrow3.0 最好的golang加载器项目(go)
-
-
 
 ```
 
