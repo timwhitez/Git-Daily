@@ -4,13 +4,23 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20201015
+```
+https://github.com/FourCoreLabs/EDRHunt
+查找本机安装的edr以及反病毒产品(go)
+
+
+https://github.com/howmp/CobaltStrikeDetect
+cobalt strike 检测(c)
+
+```
+
 ### 20201014
 ```
 https://github.com/aaaddress1/Skrull
 Skrull针对DRM的恶意软件保护，可防止AV/EDR自动提交样本以及从内核进行签名扫描。它生成的启动器可以使用进程重影技术在受害者身上运行恶意软件。启动器是完全反复制的，并且在提交时自然会损坏。(c)
 
 ```
-
 
 
 ### 20201013
