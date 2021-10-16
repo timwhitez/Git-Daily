@@ -4,6 +4,17 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20201016
+```
+https://github.com/Cobalt-Strike/sleep_python_bridge
+使用python写Cobalt Strike插件(python)
+
+
+https://github.com/timwhitez/ScareCrow-Common
+ScareCrow框架学习,生成后的代码可读版本(go)
+
+```
+
 ### 20201015
 ```
 https://github.com/FourCoreLabs/EDRHunt
