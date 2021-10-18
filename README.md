@@ -4,6 +4,21 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+###20201018
+```
+https://github.com/mez-0/InMemoryNET
+内存执行.net程序，assembly execute (cpp)
+
+
+https://github.com/caddyserver/caddy
+https服务器 (go)
+
+
+https://github.com/L-codes/MX1014
+快速端口扫描器(go)
+
+```
+
 ### 20201016
 ```
 https://github.com/Cobalt-Strike/sleep_python_bridge
