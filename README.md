@@ -4,6 +4,14 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20201019
+```
+https://github.com/lkarlslund/adalanche
+adalanche提供即时结果，显示用户和组在 Active Directory 中的权限。它可用于可视化和探索谁可以接管帐户、机器或整个域，并可用于查找和显示错误配置。(go)
+
+```
+
+
 ### 20201018
 ```
 https://github.com/mez-0/InMemoryNET
