@@ -9,6 +9,10 @@ Github Security Daily Repository.
 https://github.com/lkarlslund/adalanche
 adalanche提供即时结果，显示用户和组在 Active Directory 中的权限。它可用于可视化和探索谁可以接管帐户、机器或整个域，并可用于查找和显示错误配置。(go)
 
+
+https://github.com/asmcos/requests
+与python requests类似的golang包 (go)
+
 ```
 
 
