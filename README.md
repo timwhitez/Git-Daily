@@ -4,7 +4,18 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
-### 20201019
+### 20211020
+```
+https://github.com/m0rv4i/go-hunt-weak-pes
+从系统寻找未开启保护的exe,dll (go)
+
+
+https://github.com/Mzack9999/roundrobin
+可配置策略轮询 (go)
+
+```
+
+### 20211019
 ```
 https://github.com/lkarlslund/adalanche
 adalanche提供即时结果，显示用户和组在 Active Directory 中的权限。它可用于可视化和探索谁可以接管帐户、机器或整个域，并可用于查找和显示错误配置。(go)
@@ -16,7 +27,7 @@ https://github.com/asmcos/requests
 ```
 
 
-### 20201018
+### 20211018
 ```
 https://github.com/mez-0/InMemoryNET
 内存执行.net程序，assembly execute (cpp)
@@ -31,7 +42,7 @@ https://github.com/L-codes/MX1014
 
 ```
 
-### 20201016
+### 20211016
 ```
 https://github.com/Cobalt-Strike/sleep_python_bridge
 使用python写Cobalt Strike插件(python)
@@ -42,7 +53,7 @@ ScareCrow框架学习,生成后的代码可读版本(go)
 
 ```
 
-### 20201015
+### 20211015
 ```
 https://github.com/FourCoreLabs/EDRHunt
 查找本机安装的edr以及反病毒产品(go)
@@ -53,7 +64,7 @@ cobalt strike 检测(c)
 
 ```
 
-### 20201014
+### 20211014
 ```
 https://github.com/aaaddress1/Skrull
 Skrull针对DRM的恶意软件保护，可防止AV/EDR自动提交样本以及从内核进行签名扫描。它生成的启动器可以使用进程重影技术在受害者身上运行恶意软件。启动器是完全反复制的，并且在提交时自然会损坏。(c)
@@ -61,7 +72,7 @@ Skrull针对DRM的恶意软件保护，可防止AV/EDR自动提交样本以及�
 ```
 
 
-### 20201013
+### 20211013
 ```
 https://github.com/EspressoCake/HandleKatz_BOF
 通过lsass句柄克隆进行转储与混淆的BOF版本 (c)
@@ -73,7 +84,7 @@ scarecrow3.0 最好的golang加载器项目(go)
 ```
 
 
-### 20201012
+### 20211012
 ```
 https://github.com/yaklang/yakit/
 基于yaklang的集成化单兵安全能力平台(TypeScript)
