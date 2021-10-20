@@ -13,6 +13,10 @@ https://github.com/m0rv4i/go-hunt-weak-pes
 https://github.com/Mzack9999/roundrobin
 可配置策略轮询 (go)
 
+
+https://github.com/akkuman/rotateproxy
+利用fofa搜索socks5开放代理进行代理池轮切的工具(go)
+
 ```
 
 ### 20211019
