@@ -4,6 +4,18 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211022
+```
+https://github.com/jfmaes/FunWithServerless
+serverless proxy 代码示例 (python)
+
+
+
+
+
+```
+
+
 ### 20211021
 ```
 https://github.com/Tylous/ZipExec
