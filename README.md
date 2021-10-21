@@ -21,6 +21,14 @@ golang COM接口添加计划任务(go)
 https://github.com/rxwx/spoolsystem
 使用PrintSpooler提权的cna脚本(c)
 
+
+https://github.com/Jumbo-WJB/PTH_Exchange
+使用NTLM hash操作Exchange (python)
+
+
+https://github.com/kindtime/nosferatu
+NTLM身份验证后门(cpp)
+
 ```
 
 
