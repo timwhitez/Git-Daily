@@ -4,6 +4,26 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211021
+```
+https://github.com/Tylous/ZipExec
+从受密码保护的 zip 执行二进制文件的独特技术(POC)(go)
+
+
+https://github.com/akkuman/toolset
+免杀生成器，加载部分基于gld(go)
+
+
+https://github.com/akkuman/gSchtasks
+golang COM接口添加计划任务(go)
+
+
+https://github.com/rxwx/spoolsystem
+使用PrintSpooler提权的cna脚本(c)
+
+```
+
+
 ### 20211020
 ```
 https://github.com/m0rv4i/go-hunt-weak-pes
