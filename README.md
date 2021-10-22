@@ -10,7 +10,12 @@ https://github.com/jfmaes/FunWithServerless
 serverless proxy 代码示例 (python)
 
 
+https://github.com/0x727/JNDIExploit
+JNDI注入利用工具(java)
 
+
+https://github.com/0x727/SpringBootExploit
+SpringBoot利用工具(java)
 
 
 ```
