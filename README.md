@@ -20,6 +20,9 @@ SpringBoot利用工具(java)
 
 https://github.com/nospaceships/raw-socket-sniffer
 无需npcap抓包(c)
+
+https://github.com/KaLendsi/CVE-2021-40449-Exploit
+windows LPE提权 (cpp)
 ```
 
 
