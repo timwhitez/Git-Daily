@@ -4,6 +4,17 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211023
+```
+https://github.com/0x727/AggressorScripts_0x727
+0x727的cobalt strike插件(ps1)
+
+https://github.com/klinix5/ProfSvcLPE
+windows提权漏洞(cpp)
+
+```
+
+
 ### 20211022
 ```
 https://github.com/jfmaes/FunWithServerless
