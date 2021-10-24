@@ -4,6 +4,17 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211024
+```
+https://github.com/RedTeamWing/SharpClearPass
+.net获取明文密码(c#)
+
+
+https://github.com/AttackTeamFamily/cobaltstrike-bof-toolset
+Cobalt Strike BOF工具集(c)
+
+```
+
 ### 20211023
 ```
 https://github.com/0x727/AggressorScripts_0x727
