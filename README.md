@@ -4,6 +4,22 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211026
+```
+https://github.com/LloydLabs/delete-self-poc
+文件自删除(c)
+
+
+https://github.com/klezVirus/SharpSelfDelete
+文件自删除(c#)
+
+
+https://github.com/0xrawsec/whids
+开源edr(go)
+
+
+```
+
 ### 20211024
 ```
 https://github.com/RedTeamWing/SharpClearPass
