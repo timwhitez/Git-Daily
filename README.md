@@ -18,6 +18,16 @@ https://github.com/0xrawsec/whids
 开源edr(go)
 
 
+
+https://github.com/RedTeamWing/WingKit
+Cobalt Strike 插件 by Wing (powershell/c)
+
+
+
+https://github.com/cube0x0/SharpSystemTriggers
+windows认证触发器 MS-EFS RPC/MS-RPRN RPC/DCOM Potato (c#)
+
+
 ```
 
 ### 20211024
