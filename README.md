@@ -33,6 +33,10 @@ https://github.com/bigb0sss/Bankai
 又一个golang shellcode loader，优点是加载template比较多(go)
 
 
+https://github.com/Crimson-io/AMSI
+Golang AMSI Bypass (go)
+
+
 ```
 
 ### 20211024
