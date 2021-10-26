@@ -28,6 +28,11 @@ https://github.com/cube0x0/SharpSystemTriggers
 windows认证触发器 MS-EFS RPC/MS-RPRN RPC/DCOM Potato (c#)
 
 
+
+https://github.com/bigb0sss/Bankai
+又一个golang shellcode loader，优点是加载template比较多(go)
+
+
 ```
 
 ### 20211024
