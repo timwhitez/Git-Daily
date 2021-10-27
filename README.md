@@ -10,6 +10,8 @@ https://github.com/RichardKnop/machinery
 分布式异步任务队列(go)
 
 
+https://github.com/scythe-io/memory-module-loader
+直接从内存中加载dll而不调用loadlibrary(c)
 
 ```
 
