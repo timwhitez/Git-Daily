@@ -4,6 +4,16 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211027
+```
+https://github.com/RichardKnop/machinery
+分布式异步任务队列(go)
+
+
+
+```
+
+
 ### 20211026
 ```
 https://github.com/LloydLabs/delete-self-poc
