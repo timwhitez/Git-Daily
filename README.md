@@ -4,6 +4,24 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211029
+```
+https://github.com/akutz/memconn
+内存网络连接实现，效率更高(go)
+
+
+https://github.com/imroc/req
+所谓更人性化的http请求库(go)
+
+
+https://github.com/gvb84/pbscan
+更快的syn扫描器(c)
+
+
+https://github.com/ixty/mandibule
+elf进程注入(c)
+
+```
 ### 20211027
 ```
 https://github.com/RichardKnop/machinery
