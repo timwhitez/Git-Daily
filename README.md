@@ -4,6 +4,49 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211104
+```
+https://github.com/malfunkt/iprange
+iprange是一个库，可用于从nmap格式中的字符串解析 IPv4 地址。(go)
+
+
+https://github.com/jianfengye/collection
+Collection包目标是用于替换golang原生的Slice，使用场景是在大量不追求极致性能，追求业务开发效能的场景。(go)
+
+
+https://github.com/akkuman/gSigFlip
+Golang版本的SigFlip, 将信息隐写入签名exe，不破坏证书(go)
+
+
+https://github.com/knownsec/KCon
+KCon PPT
+
+
+https://github.com/akkuman/rotateproxy
+利用fofa搜索socks5开放代理进行代理池轮切的工具(go)
+
+
+https://github.com/r0eXpeR/fingerprint
+各种工具指纹收集分享
+
+
+https://github.com/FunnyWolf/TFirewall
+防火墙出网探测工具,内网穿透型socks5代理(go)
+
+
+https://github.com/sinamna/ChizBroker
+grpc message broker(go)
+
+
+https://github.com/dev-2null/ADCollector
+AD信息收集工具 (C#)
+
+
+https://github.com/BeichenDream/Kcon2021Code
+Beichen在KCon的项目代码 (java)
+
+```
+
 ### 20211029
 ```
 https://github.com/akutz/memconn
