@@ -6,6 +6,10 @@ Github Security Daily Repository.
 ## --
 ### 20211108
 ```
+https://github.com/lqqyt2423/go-mitmproxy
+Golang 版本的 mitmproxy(go)
+
+
 https://github.com/r0eXpeR/supplier
 主流供应商的一些攻击性漏洞汇总(md)
 
