@@ -6,6 +6,10 @@ Github Security Daily Repository.
 ## --
 ### 20211108
 ```
+https://github.com/wumansgy/goEncrypt
+go语言封装的各种对称加密和非对称加密(go)
+
+
 https://github.com/lqqyt2423/go-mitmproxy
 Golang 版本的 mitmproxy(go)
 
