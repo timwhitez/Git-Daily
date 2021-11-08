@@ -4,6 +4,60 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211108
+```
+https://github.com/r0eXpeR/supplier
+主流供应商的一些攻击性漏洞汇总(md)
+
+
+https://github.com/waterrr/BlackIP
+公网扫描CobaltStrike的恶意IP合集(txt)
+
+
+https://github.com/microsoft/Windows-classic-samples
+微软官方的windows api samples(cpp)
+
+
+https://github.com/avelino/awesome-go
+精选的 Go 框架、库和软件的列表(go)
+
+
+https://github.com/trustedsec/CS-Situational-Awareness-BOF
+BOF用于主机信息收集(c)
+
+
+https://github.com/wsummerhill/CobaltStrike_RedTeam_CheatSheet
+Cobalt Strike Red Team Cheat Sheet, 常用的CobaltStrike命令(md)
+
+
+https://github.com/jweny/xhttp
+应用于扫描器场景下的http基础库(go)
+
+
+https://github.com/asmcos/requests
+模仿python request的golang http接口(go)
+
+
+https://github.com/imroc/req
+Go语言人性化HTTP请求库(go)
+
+
+https://github.com/mgeeky/UnhookMe
+windows api动态脱钩导入解析器(cpp)
+
+
+https://github.com/sairson/MateuszEx
+bypass AV生成工具,Golang shellcode加载器(go)
+
+
+https://github.com/Rvn0xsy/PassDecode-jar
+帆软/致远密码解密工具(java)
+
+
+https://github.com/tatsushid/go-fastping
+快速icmp请求库(go)
+
+```
 ### 20211104
 ```
 https://github.com/malfunkt/iprange
