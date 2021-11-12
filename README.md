@@ -4,6 +4,37 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211112
+```
+https://github.com/helpsystems/nanodump
+更隐蔽的dump lsass(c)
+
+
+https://github.com/DongHuangT1/Geacon
+新修改的Geacon(beacon by golang) (go)
+
+
+https://github.com/Maka8ka/NGLite
+基于NKN区块链节点的C2 (go)
+
+
+https://github.com/virusdefender/copy-cert
+复制网站ssl证书(go)
+
+
+https://github.com/lwch/natpass
+新一代NAT内网穿透+shell+vnc工具(go)
+
+
+https://github.com/L-codes/MX1014
+短平快 端口扫描器(go)
+
+
+https://github.com/taielab/Taie-Bugbounty-killer
+自动化漏洞挖掘赏金技巧
+
+
+```
 ### 20211108
 ```
 https://github.com/wumansgy/goEncrypt
