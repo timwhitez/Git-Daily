@@ -6,6 +6,18 @@ Github Security Daily Repository.
 ## --
 ### 20211118
 ```
+https://github.com/3gstudent/SharpRDPCheck
+检查rdp账号密码是否可用，支持明文密码与ntlmhash (c#)
+
+
+https://github.com/bigsizeme/fastjson-check
+fastjson回显payload生成,burp插件(java)
+
+
+https://github.com/trustedsec/COFFLoader
+COFF loader (AKA Beacon Object Files) (c)
+
+
 https://github.com/lab52io/StopDefender
 从administrator权限提升到trustedinstaller再通过服务关闭Windows Defender(cpp)
 
@@ -58,6 +70,8 @@ https://github.com/Buzz2d0/0xpe
 [windows]pe -> shellcode -> shellcodeLoader -> (pe2shellcode - go on?)(go)
 
 
+https://github.com/riramar/Web-Attack-Cheat-Sheet
+web攻击面总结
 
 ```
 
