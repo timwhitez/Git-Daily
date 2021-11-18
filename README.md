@@ -4,6 +4,63 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211118
+```
+https://github.com/lab52io/StopDefender
+从administrator权限提升到trustedinstaller再通过服务关闭Windows Defender(cpp)
+
+
+https://github.com/CCob/lsarelayx
+ntlm中继工具，能扩大中继范围，降级中继(cpp)
+
+
+https://github.com/no0be/DNSlivery
+DNS+powershell文件传输(py)
+
+
+https://github.com/Binject/awesome-go-security
+golang 安全相关项目收集(go)
+
+
+https://github.com/minio/asm2plan9s
+为 Go 汇编生成字节序列的工具(go)
+
+
+https://github.com/aus/gopherheaven
+golang heaven's gate 直接从 32 位进程调用 64 位代码(go)
+
+
+https://github.com/wbenny/injdrv
+injdrv 是一个概念验证 Windows 驱动程序，用于使用 APC 将 DLL 注入用户模式进程(c)
+
+
+https://github.com/moloch--/sqlite
+sqlite的纯go支持(go)
+
+
+https://github.com/daem0nc0re/HEVD-CSharpKernelPwn
+HackSys Extreme 易受攻击的驱动程序(c#)
+
+
+https://github.com/klinix5/WindowsMDMLPE
+win11提权(cpp)
+
+
+https://github.com/AV1080p/Hacking-With-Golang
+Golang安全资源合集(go)
+
+
+https://github.com/xwuyi/STS2G
+Struts2漏洞扫描利用工具 - Golang版(go)
+
+
+https://github.com/Buzz2d0/0xpe
+[windows]pe -> shellcode -> shellcodeLoader -> (pe2shellcode - go on?)(go)
+
+
+
+```
+
 ### 20211112
 ```
 https://github.com/helpsystems/nanodump
