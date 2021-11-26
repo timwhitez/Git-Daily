@@ -4,6 +4,84 @@ Github Security Daily Repository.
 - 尝试记录github项目并添加关键词便于检索
 
 ## --
+### 20211126
+```
+https://github.com/busterb/msmailprobe
+Office 365 and Exchange爆破工具(go)
+
+
+https://github.com/scareing/UAC_wenpon
+包含常用的几种UAC bypass技术，win7-win10 ,同时拥有一定的bypass 杀软的能力(cpp)
+
+
+https://github.com/nccgroup/SocksOverRDP
+在RDP连接上开启Socks代理(cpp)
+
+
+https://github.com/icyguider/DumpNParse
+LSASS 转储工具和解析器(c#)
+
+
+https://github.com/niudaii/go-find
+文件名、文件内容搜索工具(go)
+
+
+https://github.com/fullstorydev/grpcurl
+类似于 cURL，用于与 gRPC 服务器交互的命令行工具(go)
+
+
+https://github.com/mrd0x/dll_inject_vs_binaries
+用于进程注入的lolbin,存在于visual studio
+
+
+https://github.com/ufrisk/MemProcFS
+通过挂载的文件系统进行快速简便的内存分析(c)
+
+
+https://github.com/zema1/yarx
+一个自动化根据 xray poc 生成对应 server 的工具(go)
+
+
+https://github.com/API-Security/APIKit
+主动/被动扫描发现应用泄露的API文档，并将API文档解析成BurpSuite中的数据包用于API安全测试。(java)
+
+
+https://github.com/API-Security/APISandbox
+基于 Docker-Compose 的API漏洞靶场环境
+
+
+https://github.com/fangzesheng/free-api
+收集免费的接口服务,做一个api的搬运工
+
+
+https://github.com/whwlsfb/BurpCrypto
+支持多种加密算法或直接执行JS代码的用于爆破前端加密的BurpSuite插件(java)
+
+
+https://github.com/klinix5/InstallerFileTakeOver
+Windows Installer 提权POC(cpp)
+
+
+https://github.com/rasta-mouse/ThreatCheck
+修改版DefenderCheck, 用于定位恶意文件被Windows Defender查杀的静态特征(C#)
+
+
+https://github.com/sharp-shooter/ChangeDomainMachinePassword
+用于修改本地或者域控中计算机账号的密码(C#)
+
+
+https://github.com/Liang2580/rotateproxy
+利用fofa搜索socks5开放代理进行代理池轮切的工具(改)(go)
+
+
+https://github.com/oXis/GPUSleep
+在睡眠过程中将内存数据转移到GPU内存以规避内存扫描(cpp)
+
+
+https://github.com/uknowsec/getSystem
+用于webshell下getsystem (c)
+
+```
 ### 20211118
 ```
 https://github.com/3gstudent/SharpRDPCheck
