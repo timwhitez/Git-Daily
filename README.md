@@ -1,7 +1,10 @@
 # Git-Daily
 Github Security Daily Repository. 
 
+# Github 推出star项目分组功能，本repo无存在的必要，停止更新
+
 - 尝试记录github项目并添加关键词便于检索
+
 
 ## --
 ### 20211126
